@@ -1,1 +1,0 @@
-import"./modulepreload-polyfill-wMinxHhO.js";console.log(`Ranking page loaded`);
